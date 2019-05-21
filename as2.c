@@ -23,10 +23,7 @@
  *
  * Algorithm: compare guess with the secret number
  *
- * Programmer:
- *
- *
- *
+ * Programmer:Elias Afzalzada
  *
  */
 #include <stdio.h>
