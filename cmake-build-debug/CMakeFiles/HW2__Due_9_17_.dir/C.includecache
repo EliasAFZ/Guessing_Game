@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/College/Older semesters/Fall 2018/itec-310 (C and Unix)/HW/HW2 (Due 9-17)/as2.c
+stdio.h
+-
+
