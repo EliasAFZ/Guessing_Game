@@ -62,13 +62,6 @@ int main(void) {
             }
             else
                 printf("Error: guess > 20 or < 1.\n");
-            // if
-            //else
-            // use one big if ... else to check error range first,
-            // then check difference > 5, then < -5,
-            //   then check difference > 1, then < -1,
-            //     then difference == 1, then == -1
-            // print appropriate message for each checking
         }
         if (winlose == 1)
             printf("You Won.\n\n");
